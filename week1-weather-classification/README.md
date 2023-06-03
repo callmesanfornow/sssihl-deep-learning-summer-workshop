@@ -26,3 +26,11 @@ Unigram Model : p(w) = Π<sub>i=1</sub><sup>n</sup> p(w<sub>i</sub>)
 
 Bigram Model : p(w) = p(w<sub>1</sub>) Π<sub>i=2</sub><sup>n</sup> p(w<sub>i</sub>|w<sub>i-1</sub>)
 
+### The Universal Approximation Theorem
+
+Mathematically speaking, any neural network architecture aims at finding any mathematical function y= f(x) that can map attributes(x) to output(y). 
+
+The accuracy of this function i.e. mapping differs depending on the distribution of the dataset and the architecture of the network employed. The function f(x) can be arbitrarily complex.
+
+The Universal Approximation Theorem tells us that Neural Networks has a kind of universality i.e. no matter what f(x) is, there is a network that can approximately approach the result and do the job! This result holds for any number of inputs and outputs.
+
