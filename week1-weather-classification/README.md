@@ -33,4 +33,3 @@ Mathematically speaking, any neural network architecture aims at finding any mat
 The accuracy of this function i.e. mapping differs depending on the distribution of the dataset and the architecture of the network employed. The function f(x) can be arbitrarily complex.
 
 The Universal Approximation Theorem tells us that Neural Networks has a kind of universality i.e. no matter what f(x) is, there is a network that can approximately approach the result and do the job! This result holds for any number of inputs and outputs.
-
