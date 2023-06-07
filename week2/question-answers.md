@@ -1,4 +1,8 @@
-# Questions to Ponder and Answer
+# Wednesday, 7th June 2023
+
+## Codes
+
+## Questions to Ponder and Answer
 
 1. Difference between having multiple neurons in a single layer Vs distributing them across multiple layers.
 2. Generative Vs Discriminative
