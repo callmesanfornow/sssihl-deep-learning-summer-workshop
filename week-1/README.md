@@ -41,6 +41,6 @@ ___
 1. Basic PyTorch Model and how to create a Neural Network in PyTorch: 
 [Notebook](./simplePytorchNeuralNet.ipynb).
 
-2. Modify the above neural network to perform picture classification.
+2. Modify the above neural network to perform picture classification. [Notebook](./simplepytorchmodel.ipynb)
 
 3. Answer the questions asked : [QnA](question-answers.md)
