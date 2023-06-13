@@ -23,6 +23,8 @@ In image processing, correlation is useful for tasks such as object detection, w
 
 ### 4. Solve a numerical problem on Backpropagation.
 
+**Ans:** Here is the [Notebook](./backpropogation-numerical.ipynb) with implementation.
+
 ### 5. Implement Backpropagation in NumPy.
 
 **Ans**:Implementing it
