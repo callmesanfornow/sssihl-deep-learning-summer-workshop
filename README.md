@@ -9,3 +9,6 @@ Week 1:
 
 Week 2:
     [Notes](./week-2/README.md)
+
+Week 3:
+    [Notes](./week-3/README.md)
