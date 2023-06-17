@@ -12,3 +12,7 @@ Quick Links:
 * ResNet with Fast.ai: [Notebook](./fastai-resnet34.ipynb)
 
 Class Notes:
+    
+* Question to ask:
+    
+    LSTMs and vanishing Gradients problem? Are they still an important concept to learn?
