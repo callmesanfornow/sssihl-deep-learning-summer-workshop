@@ -15,4 +15,4 @@ Class Notes:
     
 * Question to ask:
     
-    LSTMs and vanishing Gradients problem? Are they still an important concept to learn?
+    * LSTMs and vanishing Gradients problem? Are they still an important concept to learn?
