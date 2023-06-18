@@ -64,4 +64,3 @@ Mathematical Notation of RNNs
 ## Wednesday
 
 RNN, LSTM, BERT
-
