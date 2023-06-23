@@ -1,7 +1,7 @@
 # June 24
 
 1. Word2Vec without cleaning data + stopwords : [Notebook](/week-3/20-newsgroup-classification/20-newsgroup-word2vec.ipynb)
-2. Word2Vec improved : [Notebook](/week-3/20-newsgroup-classification/20_newsgroup_word2vec_improved.ipynb), where 87% accuracy was achieved using SVC Linear
+2. Word2Vec improved : [Notebook](/week-3/20-newsgroup-classification/20_newsgroup_word2vec_improved.ipynb)
 3. What is an RNN Mathematically?
 
 At each time step t, an RNN takes an input vector x(t) and the hidden state vector h(t-1) from the previous time step (or an initial hidden state h(0)) and produces an output vector y(t) and an updated hidden state h(t) for the current time step. The hidden state vector h(t) represents the network's memory or information retained from previous time steps, which allows the RNN to process sequential information and capture long-term dependencies.
